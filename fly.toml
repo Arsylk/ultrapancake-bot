@@ -1,0 +1,9 @@
+# fly.toml file generated for ultra-pancake-fly-io on 2022-11-24T09:30:52+01:00
+
+app = "ultra-pancake-fly-io"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
+  PORT = "8080"
