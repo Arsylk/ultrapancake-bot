@@ -1,11 +1,12 @@
-from discord import Client, Color, Embed, Member
+from discord import Color, Embed, Intents
 from discord.ext import commands
 from math import ceil
 import config
 import data
 
-
-client, bot = Client(), commands.Bot(command_prefix=config.command_prefix)
+intents = Intents.default()
+intents.message_content = True
+bot = commands.Bot(intents=intents, command_prefix=config.command_prefix)
 
 
 def char_embed(char, lang):

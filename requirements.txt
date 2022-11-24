@@ -1,3 +1,1 @@
-git+https://github.com/Rapptz/discord.py@v1.4.x
-dnspython==1.16.0
-async-timeout==3.0.1
+discord.py==2.1.0
