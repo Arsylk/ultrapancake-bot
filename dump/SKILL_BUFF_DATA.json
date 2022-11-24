@@ -19,15 +19,15 @@
         "logic": "skill_reaction",
         "category_1": "1003"
     },
-    "17000058": {
-        "idx": "17000058",
+    "18000113": {
+        "idx": "18000113",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_drive_defence",
-        "category_1": "401"
+        "category_2": "1002",
+        "rank": "1",
+        "type": "8",
+        "category_3": "318000113",
+        "logic": "skill_buff_explosion",
+        "category_1": "300"
     },
     "17000198": {
         "idx": "17000198",
@@ -39,15 +39,15 @@
         "logic": "skill_grow_evade",
         "category_1": "1001"
     },
-    "19000013": {
-        "idx": "19000013",
+    "18000022": {
+        "idx": "18000022",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "9",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_last_attack",
-        "category_1": "0"
+        "logic": "skill_debuff_evade",
+        "category_1": "1005"
     },
     "19000012": {
         "idx": "19000012",
@@ -69,14 +69,14 @@
         "logic": "skill_buff_explosion",
         "category_1": "1005"
     },
-    "18000018": {
-        "idx": "18000018",
+    "18000015": {
+        "idx": "18000015",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_default_dmg",
+        "logic": "skill_dmg",
         "category_1": "400"
     },
     "17000172": {
@@ -129,15 +129,15 @@
         "logic": "skill_vent_anger_random",
         "category_1": "1003"
     },
-    "17000092": {
-        "idx": "17000092",
+    "17000048": {
+        "idx": "17000048",
         "noApplyDebuffDuration": "0",
-        "category_2": "10",
-        "rank": "2",
+        "category_2": "0",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_fever_time",
-        "category_1": "102"
+        "logic": "skill_addDamage",
+        "category_1": "0"
     },
     "17000030": {
         "idx": "17000030",
@@ -149,15 +149,25 @@
         "logic": "skill_weak_defence",
         "category_1": "1006"
     },
-    "17000216": {
-        "idx": "17000216",
+    "17000165": {
+        "idx": "17000165",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
+        "category_2": "0",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_all_def_except_neg_attr",
-        "category_1": "401"
+        "logic": "skill_switch_venomheal",
+        "category_1": "1003"
+    },
+    "19000039": {
+        "idx": "19000039",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "9",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "17000236": {
         "idx": "17000236",
@@ -169,14 +179,14 @@
         "logic": "skill_buff_explosion_up",
         "category_1": "400"
     },
-    "18000026": {
-        "idx": "18000026",
+    "17000202": {
+        "idx": "17000202",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1010",
         "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_critical_dmg",
+        "type": "7",
+        "category_3": "301",
+        "logic": "skill_grow_press_defence",
         "category_1": "400"
     },
     "17000153": {
@@ -249,25 +259,25 @@
         "logic": "skill_reaction",
         "category_1": "1003"
     },
-    "17000121": {
-        "idx": "17000121",
+    "17000246": {
+        "idx": "17000246",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1022",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_skill_gauge_instant_field",
+        "category_1": "1004"
+    },
+    "17000120": {
+        "idx": "17000120",
         "noApplyDebuffDuration": "0",
         "category_2": "1012",
         "rank": "1",
         "type": "7",
         "category_3": "0",
         "logic": "skill_antidebuff_category",
-        "category_1": "10020300"
-    },
-    "17000209": {
-        "idx": "17000209",
-        "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_def_reaction",
-        "category_1": "401"
+        "category_1": "10020200"
     },
     "17000018": {
         "idx": "17000018",
@@ -279,15 +289,15 @@
         "logic": "skill_hp",
         "category_1": "301"
     },
-    "17000052": {
-        "idx": "17000052",
+    "18000134": {
+        "idx": "18000134",
         "noApplyDebuffDuration": "0",
-        "category_2": "1021",
-        "rank": "2",
-        "type": "7",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_drive_gauge_instant",
-        "category_1": "1004"
+        "logic": "skill_extra_damage_buff_2",
+        "category_1": "400"
     },
     "18000145": {
         "idx": "18000145",
@@ -338,6 +348,16 @@
         "category_3": "0",
         "logic": "skill_antidebuff_category",
         "category_1": "10021004"
+    },
+    "19000041": {
+        "idx": "19000041",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "9",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "17000233": {
         "idx": "17000233",
@@ -479,15 +499,15 @@
         "logic": "skill_def_reaction",
         "category_1": "401"
     },
-    "17000044": {
-        "idx": "17000044",
+    "18000124": {
+        "idx": "18000124",
         "noApplyDebuffDuration": "0",
-        "category_2": "1003",
-        "rank": "1",
-        "type": "7",
+        "category_2": "1002",
+        "rank": "4",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_guard",
-        "category_1": "301"
+        "logic": "skill_buff_steal",
+        "category_1": "1003"
     },
     "17000070": {
         "idx": "17000070",
@@ -499,25 +519,25 @@
         "logic": "skill_confuse_evade",
         "category_1": "1005"
     },
-    "17000088": {
-        "idx": "17000088",
+    "17000159": {
+        "idx": "17000159",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
+        "category_2": "1012",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_skill_gauge",
-        "category_1": "1004"
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020201"
     },
-    "18000073": {
-        "idx": "18000073",
+    "18000041": {
+        "idx": "18000041",
         "noApplyDebuffDuration": "0",
-        "category_2": "2",
+        "category_2": "201",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_silence_cooltime",
-        "category_1": "99"
+        "logic": "skill_venom",
+        "category_1": "200"
     },
     "17000228": {
         "idx": "17000228",
@@ -589,15 +609,15 @@
         "logic": "skill_def_reaction",
         "category_1": "401"
     },
-    "17000090": {
-        "idx": "17000090",
+    "18000057": {
+        "idx": "18000057",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_grow_atk_penalty",
-        "category_1": "1003"
+        "logic": "skill_silence_evade",
+        "category_1": "1005"
     },
     "18000025": {
         "idx": "18000025",
@@ -649,35 +669,35 @@
         "logic": "skill_hp_shield_after",
         "category_1": "304"
     },
-    "18000044": {
-        "idx": "18000044",
+    "18000130": {
+        "idx": "18000130",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_light_surfing",
+        "category_1": "0"
+    },
+    "18000074": {
+        "idx": "18000074",
+        "noApplyDebuffDuration": "0",
+        "category_2": "6",
+        "rank": "3",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_frostbite",
+        "category_1": "1004"
+    },
+    "18000139": {
+        "idx": "18000139",
         "noApplyDebuffDuration": "1",
         "category_2": "0",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_bomb",
-        "category_1": "400"
-    },
-    "17000046": {
-        "idx": "17000046",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_use_default",
-        "category_1": "0"
-    },
-    "18000088": {
-        "idx": "18000088",
-        "noApplyDebuffDuration": "1",
-        "category_2": "5",
-        "rank": "4",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_stun_cnt_pve",
-        "category_1": "99"
+        "logic": "skill_encroach_no_clean",
+        "category_1": "200"
     },
     "19000010": {
         "idx": "19000010",
@@ -709,25 +729,25 @@
         "logic": "skill_antibuff_category",
         "category_1": "10021011"
     },
-    "17000047": {
-        "idx": "17000047",
+    "17000062": {
+        "idx": "17000062",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
+        "category_2": "1019",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_use_normal",
-        "category_1": "0"
+        "logic": "skill_press_cooltime",
+        "category_1": "1004"
     },
-    "19000019": {
-        "idx": "19000019",
+    "17000247": {
+        "idx": "17000247",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_atk_penalty_pct",
-        "category_1": "1003"
+        "logic": "skill_system_on_dead",
+        "category_1": "0"
     },
     "17000051": {
         "idx": "17000051",
@@ -749,15 +769,15 @@
         "logic": "skill_venom_up_2",
         "category_1": "400"
     },
-    "17000217": {
-        "idx": "17000217",
+    "17000240": {
+        "idx": "17000240",
         "noApplyDebuffDuration": "0",
         "category_2": "301",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_attr_cnt_def_water",
-        "category_1": "1001"
+        "logic": "skill_def_reaction",
+        "category_1": "401"
     },
     "18000080": {
         "idx": "18000080",
@@ -869,15 +889,15 @@
         "logic": "skill_drive_value",
         "category_1": "400"
     },
-    "17000230": {
-        "idx": "17000230",
+    "17000245": {
+        "idx": "17000245",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
+        "category_2": "4",
+        "rank": "3",
         "type": "7",
         "category_3": "0",
         "logic": "skill_def_reaction",
-        "category_1": "401"
+        "category_1": "99"
     },
     "17000218": {
         "idx": "17000218",
@@ -919,15 +939,15 @@
         "logic": "skill_skill_gauge_full",
         "category_1": "1004"
     },
-    "18000072": {
-        "idx": "18000072",
+    "17000248": {
+        "idx": "17000248",
         "noApplyDebuffDuration": "0",
-        "category_2": "4",
-        "rank": "3",
-        "type": "8",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_stun_time",
-        "category_1": "99"
+        "logic": "skill_system_on_dead",
+        "category_1": "0"
     },
     "17000155": {
         "idx": "17000155",
@@ -938,6 +958,16 @@
         "category_3": "0",
         "logic": "skill_awaken",
         "category_1": "400"
+    },
+    "19000036": {
+        "idx": "19000036",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "9",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "17000007": {
         "idx": "17000007",
@@ -989,15 +1019,35 @@
         "logic": "skill_cri_reaction",
         "category_1": "0"
     },
-    "17000032": {
-        "idx": "17000032",
+    "18000056": {
+        "idx": "18000056",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_press_cooltime",
+        "category_1": "1004"
+    },
+    "17000205": {
+        "idx": "17000205",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10021015"
+    },
+    "19000019": {
+        "idx": "19000019",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_weak_dmg",
-        "category_1": "1006"
+        "logic": "skill_atk_penalty_pct",
+        "category_1": "1003"
     },
     "18000133": {
         "idx": "18000133",
@@ -1029,15 +1079,45 @@
         "logic": "skill_debuff_duration_field",
         "category_1": "0"
     },
-    "17000154": {
-        "idx": "17000154",
+    "19000026": {
+        "idx": "19000026",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_drive_gauge",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
+    },
+    "18000036": {
+        "idx": "18000036",
+        "noApplyDebuffDuration": "0",
+        "category_2": "301",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_press_defence",
+        "category_1": "401"
+    },
+    "18000137": {
+        "idx": "18000137",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_debuff_duration_once",
         "category_1": "1004"
+    },
+    "19000022": {
+        "idx": "19000022",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "18000082": {
         "idx": "18000082",
@@ -1049,6 +1129,16 @@
         "logic": "skill_cleantimebuff_one_gauge",
         "category_1": "1004"
     },
+    "19000025": {
+        "idx": "19000025",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
+    },
     "18000049": {
         "idx": "18000049",
         "noApplyDebuffDuration": "1",
@@ -1058,6 +1148,16 @@
         "category_3": "0",
         "logic": "skill_stun_cnt",
         "category_1": "99"
+    },
+    "19000027": {
+        "idx": "19000027",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "18000069": {
         "idx": "18000069",
@@ -1109,6 +1209,16 @@
         "logic": "skill_forest_surfing",
         "category_1": "0"
     },
+    "17000193": {
+        "idx": "17000193",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_guard_debuff_2",
+        "category_1": "301"
+    },
     "17000012": {
         "idx": "17000012",
         "noApplyDebuffDuration": "0",
@@ -1118,6 +1228,16 @@
         "category_3": "0",
         "logic": "skill_suck",
         "category_1": "305"
+    },
+    "19000020": {
+        "idx": "19000020",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "18000110": {
         "idx": "18000110",
@@ -1129,6 +1249,46 @@
         "logic": "skill_deathheal_evade",
         "category_1": "1005"
     },
+    "17000041": {
+        "idx": "17000041",
+        "noApplyDebuffDuration": "0",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_press_defence",
+        "category_1": "401"
+    },
+    "18000040": {
+        "idx": "18000040",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "4",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_cleanbuff_all",
+        "category_1": "1000"
+    },
+    "17000089": {
+        "idx": "17000089",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_counter_attack",
+        "category_1": "1003"
+    },
+    "17000055": {
+        "idx": "17000055",
+        "noApplyDebuffDuration": "0",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_dmg_defence_cnt",
+        "category_1": "401"
+    },
     "18000037": {
         "idx": "18000037",
         "noApplyDebuffDuration": "0",
@@ -1139,35 +1299,35 @@
         "logic": "skill_critical_defence",
         "category_1": "401"
     },
-    "18000084": {
-        "idx": "18000084",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_water_surfing",
-        "category_1": "0"
-    },
-    "17000192": {
-        "idx": "17000192",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "3",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_reserved_revive_light",
-        "category_1": "300"
-    },
-    "19000034": {
-        "idx": "19000034",
+    "17000084": {
+        "idx": "17000084",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_system_on_apply_dot",
-        "category_1": "0"
+        "logic": "skill_range_attack",
+        "category_1": "1003"
+    },
+    "18000023": {
+        "idx": "18000023",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_normal_dmg",
+        "category_1": "400"
+    },
+    "18000143": {
+        "idx": "18000143",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_antibuff_category",
+        "category_1": "10020301"
     },
     "17000185": {
         "idx": "17000185",
@@ -1179,15 +1339,15 @@
         "logic": "skill_forced_fever",
         "category_1": "216"
     },
-    "17000055": {
-        "idx": "17000055",
+    "18000150": {
+        "idx": "18000150",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "7",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_dmg_defence_cnt",
-        "category_1": "401"
+        "logic": "skill_antibuff_category",
+        "category_1": "10021005"
     },
     "17000183": {
         "idx": "17000183",
@@ -1219,15 +1379,15 @@
         "logic": "skill_grow_atk_2_undis",
         "category_1": "1001"
     },
-    "17000071": {
-        "idx": "17000071",
+    "17000090": {
+        "idx": "17000090",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_stun_evade",
-        "category_1": "1005"
+        "logic": "skill_grow_atk_penalty",
+        "category_1": "1003"
     },
     "18000154": {
         "idx": "18000154",
@@ -1259,35 +1419,35 @@
         "logic": "skill_amputate_category",
         "category_1": "0"
     },
-    "17000129": {
-        "idx": "17000129",
+    "17000092": {
+        "idx": "17000092",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
+        "category_2": "10",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10021005"
+        "logic": "skill_fever_time",
+        "category_1": "102"
     },
-    "18000178": {
-        "idx": "18000178",
+    "17000088": {
+        "idx": "17000088",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_skill_gauge",
+        "category_1": "1004"
+    },
+    "18000084": {
+        "idx": "18000084",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10020514"
-    },
-    "18000183": {
-        "idx": "18000183",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1003",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_atk_rapine",
-        "category_1": "1001"
+        "logic": "skill_water_surfing",
+        "category_1": "0"
     },
     "17000194": {
         "idx": "17000194",
@@ -1299,35 +1459,35 @@
         "logic": "skill_deathheal_evade",
         "category_1": "1005"
     },
-    "18000179": {
-        "idx": "18000179",
+    "17000209": {
+        "idx": "17000209",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10021022"
+        "logic": "skill_def_reaction",
+        "category_1": "401"
     },
-    "18000180": {
-        "idx": "18000180",
+    "19000034": {
+        "idx": "19000034",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_skill_gauge_explosion",
-        "category_1": "1004"
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
-    "18000182": {
-        "idx": "18000182",
+    "19000045": {
+        "idx": "19000045",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "rank": "2",
+        "type": "9",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10020512"
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "19000007": {
         "idx": "19000007",
@@ -1339,15 +1499,15 @@
         "logic": "skill_cri_reaction",
         "category_1": "0"
     },
-    "18000013": {
-        "idx": "18000013",
+    "18000097": {
+        "idx": "18000097",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "215",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_drive_gauge",
-        "category_1": "1004"
+        "logic": "skill_blades_dispel",
+        "category_1": "200"
     },
     "17000091": {
         "idx": "17000091",
@@ -1379,25 +1539,25 @@
         "logic": "skill_cri_skill_pct",
         "category_1": "1005"
     },
-    "17000223": {
-        "idx": "17000223",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_dot_damage_value_after",
-        "category_1": "0"
-    },
-    "18000181": {
-        "idx": "18000181",
+    "18000021": {
+        "idx": "18000021",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10020307"
+        "logic": "skill_evade",
+        "category_1": "1005"
+    },
+    "17000175": {
+        "idx": "17000175",
+        "noApplyDebuffDuration": "0",
+        "category_2": "502",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_clenching_cnt",
+        "category_1": "301"
     },
     "17000197": {
         "idx": "17000197",
@@ -1409,22 +1569,22 @@
         "logic": "skill_grow_agi",
         "category_1": "1001"
     },
-    "18000021": {
-        "idx": "18000021",
+    "17000239": {
+        "idx": "17000239",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_evade",
-        "category_1": "1005"
+        "logic": "skill_def_reaction",
+        "category_1": "401"
     },
-    "19000026": {
-        "idx": "19000026",
+    "19000044": {
+        "idx": "19000044",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "9",
         "category_3": "0",
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
@@ -1439,55 +1599,55 @@
         "logic": "skill_dmg",
         "category_1": "400"
     },
-    "19000022": {
-        "idx": "19000022",
+    "19000042": {
+        "idx": "19000042",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "9",
         "category_3": "0",
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
     },
-    "19000025": {
-        "idx": "19000025",
+    "19000038": {
+        "idx": "19000038",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "9",
         "category_3": "0",
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
     },
-    "17000037": {
-        "idx": "17000037",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1011",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_vent_anger",
-        "category_1": "1003"
-    },
-    "19000027": {
-        "idx": "19000027",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_system_on_apply_dot",
-        "category_1": "0"
-    },
-    "18000079": {
-        "idx": "18000079",
+    "18000112": {
+        "idx": "18000112",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_reduce_remains_grow_gauge",
-        "category_1": "1004"
+        "logic": "skill_buff_explosion",
+        "category_1": "1002"
+    },
+    "19000043": {
+        "idx": "19000043",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "9",
+        "category_3": "0",
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
+    },
+    "18000092": {
+        "idx": "18000092",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_count_debuff_damage",
+        "category_1": "400"
     },
     "17000024": {
         "idx": "17000024",
@@ -1509,25 +1669,25 @@
         "logic": "skill_stun_success_prob",
         "category_1": "99"
     },
-    "19000020": {
-        "idx": "19000020",
+    "17000146": {
+        "idx": "17000146",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_aoe_damage_a",
+        "category_1": "0"
+    },
+    "17000032": {
+        "idx": "17000032",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_system_on_apply_dot",
-        "category_1": "0"
-    },
-    "18000135": {
-        "idx": "18000135",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_extra_damage_buff",
-        "category_1": "400"
+        "logic": "skill_weak_dmg",
+        "category_1": "1006"
     },
     "17000115": {
         "idx": "17000115",
@@ -1539,15 +1699,15 @@
         "logic": "skill_antidebuff_category",
         "category_1": "10020003"
     },
-    "17000165": {
-        "idx": "17000165",
+    "17000047": {
+        "idx": "17000047",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_switch_venomheal",
-        "category_1": "1003"
+        "logic": "skill_use_normal",
+        "category_1": "0"
     },
     "18000108": {
         "idx": "18000108",
@@ -1609,45 +1769,45 @@
         "logic": "skill_antibuff_category",
         "category_1": "1000"
     },
-    "18000143": {
-        "idx": "18000143",
+    "17000040": {
+        "idx": "17000040",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10020301"
+        "logic": "skill_normal_defence",
+        "category_1": "401"
     },
-    "18000128": {
-        "idx": "18000128",
+    "18000083": {
+        "idx": "18000083",
         "noApplyDebuffDuration": "0",
-        "category_2": "1006",
-        "rank": "3",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_moist",
-        "category_1": "1004"
-    },
-    "18000068": {
-        "idx": "18000068",
-        "noApplyDebuffDuration": "0",
-        "category_2": "4",
+        "category_2": "218",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_smite",
-        "category_1": "99"
+        "logic": "skill_deadly_venom_pve",
+        "category_1": "200"
     },
-    "18000136": {
-        "idx": "18000136",
+    "17000221": {
+        "idx": "17000221",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_magic_damage",
-        "category_1": "209"
+        "logic": "skill_attr_cnt_def_dark",
+        "category_1": "1001"
+    },
+    "17000008": {
+        "idx": "17000008",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1012",
+        "rank": "4",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_antidebuff",
+        "category_1": "1002"
     },
     "17000179": {
         "idx": "17000179",
@@ -1659,25 +1819,25 @@
         "logic": "skill_guard_debuff",
         "category_1": "301"
     },
-    "17000173": {
-        "idx": "17000173",
+    "17000222": {
+        "idx": "17000222",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
+        "category_2": "306",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020212"
+        "logic": "skill_debuff_hp_shield_after",
+        "category_1": "301"
     },
-    "18000138": {
-        "idx": "18000138",
+    "17000037": {
+        "idx": "17000037",
         "noApplyDebuffDuration": "0",
-        "category_2": "1016",
+        "category_2": "1011",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_encroach",
-        "category_1": "200"
+        "logic": "skill_vent_anger",
+        "category_1": "1003"
     },
     "17000213": {
         "idx": "17000213",
@@ -1689,45 +1849,45 @@
         "logic": "skill_curse_dmg",
         "category_1": "400"
     },
-    "17000201": {
-        "idx": "17000201",
+    "17000021": {
+        "idx": "17000021",
         "noApplyDebuffDuration": "0",
-        "category_2": "1010",
-        "rank": "1",
-        "type": "7",
-        "category_3": "301",
-        "logic": "skill_grow_normal_defence",
-        "category_1": "400"
-    },
-    "18000139": {
-        "idx": "18000139",
-        "noApplyDebuffDuration": "1",
         "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_encroach_no_clean",
-        "category_1": "200"
+        "logic": "skill_press_dmg",
+        "category_1": "400"
     },
-    "18000141": {
-        "idx": "18000141",
+    "17000038": {
+        "idx": "17000038",
         "noApplyDebuffDuration": "0",
-        "category_2": "1002",
-        "rank": "4",
-        "type": "8",
+        "category_2": "0",
+        "rank": "1",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_buff_exchange_gauge",
-        "category_1": "1003"
+        "logic": "skill_drive_value",
+        "category_1": "400"
     },
-    "18000071": {
-        "idx": "18000071",
+    "17000044": {
+        "idx": "17000044",
         "noApplyDebuffDuration": "0",
-        "category_2": "1015",
+        "category_2": "1003",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_guard",
+        "category_1": "301"
+    },
+    "17000168": {
+        "idx": "17000168",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_electric_shock_pve",
-        "category_1": "200"
+        "logic": "skill_magic_damage_up",
+        "category_1": "400"
     },
     "19000031": {
         "idx": "19000031",
@@ -1749,15 +1909,15 @@
         "logic": "skill_normal_value",
         "category_1": "400"
     },
-    "18000130": {
-        "idx": "18000130",
+    "18000142": {
+        "idx": "18000142",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "10020512",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_light_surfing",
-        "category_1": "0"
+        "logic": "skill_antibuff_category",
+        "category_1": "10020300"
     },
     "17000162": {
         "idx": "17000162",
@@ -1769,35 +1929,35 @@
         "logic": "skill_debuff_evade_field",
         "category_1": "0"
     },
-    "18000142": {
-        "idx": "18000142",
-        "noApplyDebuffDuration": "0",
-        "category_2": "10020512",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10020300"
-    },
-    "18000137": {
-        "idx": "18000137",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_debuff_duration_once",
-        "category_1": "1004"
-    },
-    "18000134": {
-        "idx": "18000134",
+    "17000035": {
+        "idx": "17000035",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_extra_damage_buff_2",
+        "logic": "skill_normal_value",
         "category_1": "400"
+    },
+    "17000036": {
+        "idx": "17000036",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_press_value",
+        "category_1": "400"
+    },
+    "17000046": {
+        "idx": "17000046",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_use_default",
+        "category_1": "0"
     },
     "17000114": {
         "idx": "17000114",
@@ -1809,16 +1969,6 @@
         "logic": "skill_antidebuff_category",
         "category_1": "10020002"
     },
-    "18000140": {
-        "idx": "18000140",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_accuracy",
-        "category_1": "1005"
-    },
     "18000087": {
         "idx": "18000087",
         "noApplyDebuffDuration": "0",
@@ -1828,6 +1978,16 @@
         "category_3": "0",
         "logic": "skill_last_resist_duration",
         "category_1": "0"
+    },
+    "18000090": {
+        "idx": "18000090",
+        "noApplyDebuffDuration": "0",
+        "category_2": "214",
+        "rank": "2",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_stigma",
+        "category_1": "200"
     },
     "19000005": {
         "idx": "19000005",
@@ -1859,15 +2019,15 @@
         "logic": "skill_dark_surfing_extend",
         "category_1": "0"
     },
-    "18000090": {
-        "idx": "18000090",
+    "19000040": {
+        "idx": "19000040",
         "noApplyDebuffDuration": "0",
-        "category_2": "214",
+        "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "9",
         "category_3": "0",
-        "logic": "skill_stigma",
-        "category_1": "200"
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "19000035": {
         "idx": "19000035",
@@ -1889,6 +2049,36 @@
         "logic": "skill_atk_penalty",
         "category_1": "1003"
     },
+    "18000088": {
+        "idx": "18000088",
+        "noApplyDebuffDuration": "1",
+        "category_2": "5",
+        "rank": "4",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_stun_cnt_pve",
+        "category_1": "99"
+    },
+    "17000129": {
+        "idx": "17000129",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10021005"
+    },
+    "17000015": {
+        "idx": "17000015",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_heal_power",
+        "category_1": "300"
+    },
     "18000086": {
         "idx": "18000086",
         "noApplyDebuffDuration": "0",
@@ -1899,45 +2089,15 @@
         "logic": "skill_anti_endure",
         "category_1": "301"
     },
-    "17000089": {
-        "idx": "17000089",
+    "18000141": {
+        "idx": "18000141",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_counter_attack",
-        "category_1": "1003"
-    },
-    "17000014": {
-        "idx": "17000014",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1020",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_skill_gauge_sec",
-        "category_1": "1004"
-    },
-    "18000092": {
-        "idx": "18000092",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
+        "category_2": "1002",
+        "rank": "4",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_count_debuff_damage",
-        "category_1": "400"
-    },
-    "17000049": {
-        "idx": "17000049",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_ignore_def",
-        "category_1": "0"
+        "logic": "skill_buff_exchange_gauge",
+        "category_1": "1003"
     },
     "17000116": {
         "idx": "17000116",
@@ -1959,15 +2119,15 @@
         "logic": "skill_silence_evade",
         "category_1": "1005"
     },
-    "18000089": {
-        "idx": "18000089",
-        "noApplyDebuffDuration": "1",
+    "18000085": {
+        "idx": "18000085",
+        "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_endless_fire",
-        "category_1": "200"
+        "logic": "skill_anti_barrier",
+        "category_1": "301"
     },
     "17000045": {
         "idx": "17000045",
@@ -1979,15 +2139,15 @@
         "logic": "skill_give_health",
         "category_1": "300"
     },
-    "17000175": {
-        "idx": "17000175",
+    "18000179": {
+        "idx": "18000179",
         "noApplyDebuffDuration": "0",
-        "category_2": "502",
-        "rank": "2",
-        "type": "7",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_clenching_cnt",
-        "category_1": "301"
+        "logic": "skill_antibuff_category",
+        "category_1": "10021022"
     },
     "17000161": {
         "idx": "17000161",
@@ -2009,14 +2169,14 @@
         "logic": "skill_antidebuff_category",
         "category_1": "10020217"
     },
-    "18000083": {
-        "idx": "18000083",
-        "noApplyDebuffDuration": "0",
-        "category_2": "218",
+    "18000089": {
+        "idx": "18000089",
+        "noApplyDebuffDuration": "1",
+        "category_2": "0",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_deadly_venom_pve",
+        "logic": "skill_endless_fire",
         "category_1": "200"
     },
     "18000001": {
@@ -2049,15 +2209,15 @@
         "logic": "skill_burn",
         "category_1": "401"
     },
-    "18000085": {
-        "idx": "18000085",
+    "17000151": {
+        "idx": "17000151",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_anti_barrier",
-        "category_1": "301"
+        "logic": "skill_overload",
+        "category_1": "1003"
     },
     "18000066": {
         "idx": "18000066",
@@ -2069,15 +2229,15 @@
         "logic": "skill_clean_invincibility",
         "category_1": "0"
     },
-    "17000151": {
-        "idx": "17000151",
+    "17000150": {
+        "idx": "17000150",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "2",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_overload",
-        "category_1": "1003"
+        "logic": "skill_damage",
+        "category_1": "400"
     },
     "18000119": {
         "idx": "18000119",
@@ -2109,35 +2269,35 @@
         "logic": "skill_attr_cnt_def_light",
         "category_1": "1001"
     },
-    "17000038": {
-        "idx": "17000038",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_drive_value",
-        "category_1": "400"
-    },
-    "17000180": {
-        "idx": "17000180",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020213"
-    },
-    "18000146": {
-        "idx": "18000146",
+    "18000156": {
+        "idx": "18000156",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10021001"
+        "logic": "skill_count_debuff_damage",
+        "category_1": "400"
+    },
+    "18000050": {
+        "idx": "18000050",
+        "noApplyDebuffDuration": "0",
+        "category_2": "301",
+        "rank": "2",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_drive_defence",
+        "category_1": "401"
+    },
+    "18000114": {
+        "idx": "18000114",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1002",
+        "rank": "1",
+        "type": "8",
+        "category_3": "318000114",
+        "logic": "skill_buff_explosion",
+        "category_1": "301"
     },
     "18000162": {
         "idx": "18000162",
@@ -2149,15 +2309,15 @@
         "logic": "skill_remove_leader_skill",
         "category_1": "0"
     },
-    "17000158": {
-        "idx": "17000158",
+    "17000156": {
+        "idx": "17000156",
         "noApplyDebuffDuration": "0",
         "category_2": "1012",
         "rank": "1",
         "type": "7",
         "category_3": "0",
         "logic": "skill_antidebuff_category",
-        "category_1": "10020208"
+        "category_1": "10020206"
     },
     "18000005": {
         "idx": "18000005",
@@ -2169,15 +2329,15 @@
         "logic": "skill_cri",
         "category_1": "1001"
     },
-    "17000156": {
-        "idx": "17000156",
+    "17000158": {
+        "idx": "17000158",
         "noApplyDebuffDuration": "0",
         "category_2": "1012",
         "rank": "1",
         "type": "7",
         "category_3": "0",
         "logic": "skill_antidebuff_category",
-        "category_1": "10020206"
+        "category_1": "10020208"
     },
     "17000034": {
         "idx": "17000034",
@@ -2199,15 +2359,15 @@
         "logic": "skill_sleep_evade",
         "category_1": "1005"
     },
-    "17000150": {
-        "idx": "17000150",
+    "17000152": {
+        "idx": "17000152",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_damage",
-        "category_1": "400"
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020205"
     },
     "17000224": {
         "idx": "17000224",
@@ -2219,15 +2379,15 @@
         "logic": "skill_attr_cnt_def_water_extend",
         "category_1": "1001"
     },
-    "17000146": {
-        "idx": "17000146",
+    "17000157": {
+        "idx": "17000157",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "1",
+        "rank": "3",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_aoe_damage_a",
-        "category_1": "0"
+        "logic": "skill_wonder_drug",
+        "category_1": "300"
     },
     "18000116": {
         "idx": "18000116",
@@ -2239,55 +2399,35 @@
         "logic": "skill_buff_explosion",
         "category_1": "401"
     },
-    "17000159": {
-        "idx": "17000159",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020201"
-    },
-    "18000155": {
-        "idx": "18000155",
+    "17000154": {
+        "idx": "17000154",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_drive_gauge",
+        "category_1": "1004"
+    },
+    "17000077": {
+        "idx": "17000077",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_poison_defence",
+        "category_1": "400"
+    },
+    "18000026": {
+        "idx": "18000026",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10021017"
-    },
-    "17000157": {
-        "idx": "17000157",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "3",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_wonder_drug",
-        "category_1": "300"
-    },
-    "17000075": {
-        "idx": "17000075",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_stun_cnt_evade",
-        "category_1": "1005"
-    },
-    "17000204": {
-        "idx": "17000204",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_pierce",
-        "category_1": "1003"
+        "logic": "skill_critical_dmg",
+        "category_1": "400"
     },
     "18000174": {
         "idx": "18000174",
@@ -2299,14 +2439,14 @@
         "logic": "skill_buff_duration_once",
         "category_1": "1004"
     },
-    "17000004": {
-        "idx": "17000004",
+    "17000225": {
+        "idx": "17000225",
         "noApplyDebuffDuration": "0",
         "category_2": "301",
-        "rank": "1",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_def",
+        "logic": "skill_attr_cnt_def_fire_extend",
         "category_1": "1001"
     },
     "18000164": {
@@ -2329,15 +2469,35 @@
         "logic": "skill_poison_once",
         "category_1": "200"
     },
-    "18000020": {
-        "idx": "18000020",
+    "17000078": {
+        "idx": "17000078",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_venom_defence",
+        "category_1": "400"
+    },
+    "17000140": {
+        "idx": "17000140",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_atk_penalty_2",
+        "category_1": "1003"
+    },
+    "19000001": {
+        "idx": "19000001",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "8",
+        "type": "9",
         "category_3": "0",
-        "logic": "skill_value",
-        "category_1": "400"
+        "logic": "skill_damage",
+        "category_1": "0"
     },
     "17000149": {
         "idx": "17000149",
@@ -2359,6 +2519,16 @@
         "logic": "skill_critical_dmg",
         "category_1": "400"
     },
+    "18000167": {
+        "idx": "18000167",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_water_surfing_extend",
+        "category_1": "0"
+    },
     "18000163": {
         "idx": "18000163",
         "noApplyDebuffDuration": "0",
@@ -2369,25 +2539,15 @@
         "logic": "skill_antibuff_category",
         "category_1": "10021020"
     },
-    "17000225": {
-        "idx": "17000225",
-        "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_attr_cnt_def_fire_extend",
-        "category_1": "1001"
-    },
-    "18000167": {
-        "idx": "18000167",
+    "17000141": {
+        "idx": "17000141",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_water_surfing_extend",
-        "category_1": "0"
+        "logic": "skill_switch_dotdealheal",
+        "category_1": "1003"
     },
     "17000056": {
         "idx": "17000056",
@@ -2409,15 +2569,15 @@
         "logic": "skill_antibuff_category",
         "category_1": "10021021"
     },
-    "17000232": {
-        "idx": "17000232",
+    "17000134": {
+        "idx": "17000134",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "2",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_counter_attack",
-        "category_1": "1003"
+        "logic": "skill_attrvalue",
+        "category_1": "100"
     },
     "17000177": {
         "idx": "17000177",
@@ -2429,15 +2589,15 @@
         "logic": "skill_pain_atk",
         "category_1": "1001"
     },
-    "17000239": {
-        "idx": "17000239",
+    "18000013": {
+        "idx": "18000013",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
+        "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_def_reaction",
-        "category_1": "401"
+        "logic": "skill_drive_gauge",
+        "category_1": "1004"
     },
     "17000009": {
         "idx": "17000009",
@@ -2459,15 +2619,15 @@
         "logic": "skill_hp_shield",
         "category_1": "301"
     },
-    "17000229": {
-        "idx": "17000229",
+    "17000131": {
+        "idx": "17000131",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
+        "category_2": "10020002",
+        "rank": "1",
         "type": "7",
-        "category_3": "0",
-        "logic": "skill_abnormal_success",
-        "category_1": "1005"
+        "category_3": "1012",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020001"
     },
     "17000169": {
         "idx": "17000169",
@@ -2499,15 +2659,15 @@
         "logic": "skill_skill_gauge_instant",
         "category_1": "1004"
     },
-    "17000234": {
-        "idx": "17000234",
+    "17000067": {
+        "idx": "17000067",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1010",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_ignore_guard",
-        "category_1": "1003"
+        "logic": "skill_grow_atk_2",
+        "category_1": "1001"
     },
     "17000125": {
         "idx": "17000125",
@@ -2539,15 +2699,15 @@
         "logic": "skill_antibuff_category",
         "category_1": "10020502"
     },
-    "17000226": {
-        "idx": "17000226",
+    "17000073": {
+        "idx": "17000073",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
+        "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_attr_cnt_def_forest_extend",
-        "category_1": "1001"
+        "logic": "skill_antiheal_evade",
+        "category_1": "1005"
     },
     "18000170": {
         "idx": "18000170",
@@ -2579,15 +2739,15 @@
         "logic": "skill_cleantimedebuff_gauge",
         "category_1": "1004"
     },
-    "17000067": {
-        "idx": "17000067",
+    "17000074": {
+        "idx": "17000074",
         "noApplyDebuffDuration": "0",
-        "category_2": "1010",
+        "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_atk_2",
-        "category_1": "1001"
+        "logic": "skill_miss_evade",
+        "category_1": "1005"
     },
     "17000068": {
         "idx": "17000068",
@@ -2599,34 +2759,34 @@
         "logic": "skill_delayed_atk",
         "category_1": "102"
     },
-    "17000074": {
-        "idx": "17000074",
+    "17000075": {
+        "idx": "17000075",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_miss_evade",
+        "logic": "skill_stun_cnt_evade",
         "category_1": "1005"
     },
-    "17000077": {
-        "idx": "17000077",
+    "18000009": {
+        "idx": "18000009",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_poison_defence",
-        "category_1": "400"
+        "logic": "skill_skill_gauge",
+        "category_1": "1004"
     },
-    "17000073": {
-        "idx": "17000073",
+    "17000072": {
+        "idx": "17000072",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antiheal_evade",
+        "logic": "skill_sleep_evade",
         "category_1": "1005"
     },
     "17000210": {
@@ -2679,15 +2839,15 @@
         "logic": "skill_fire_surfing_extend",
         "category_1": "0"
     },
-    "17000048": {
-        "idx": "17000048",
+    "17000065": {
+        "idx": "17000065",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
+        "category_2": "501",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_addDamage",
-        "category_1": "0"
+        "logic": "skill_cri_hit",
+        "category_1": "1005"
     },
     "17000029": {
         "idx": "17000029",
@@ -2699,26 +2859,6 @@
         "logic": "skill_thorn",
         "category_1": "1003"
     },
-    "17000065": {
-        "idx": "17000065",
-        "noApplyDebuffDuration": "0",
-        "category_2": "501",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_cri_hit",
-        "category_1": "1005"
-    },
-    "17000072": {
-        "idx": "17000072",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_sleep_evade",
-        "category_1": "1005"
-    },
     "17000064": {
         "idx": "17000064",
         "noApplyDebuffDuration": "0",
@@ -2728,16 +2868,6 @@
         "category_3": "301",
         "logic": "skill_grow_def",
         "category_1": "1001"
-    },
-    "17000078": {
-        "idx": "17000078",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_venom_defence",
-        "category_1": "400"
     },
     "17000066": {
         "idx": "17000066",
@@ -2749,6 +2879,36 @@
         "logic": "skill_life_link",
         "category_1": "300"
     },
+    "17000071": {
+        "idx": "17000071",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_stun_evade",
+        "category_1": "1005"
+    },
+    "17000232": {
+        "idx": "17000232",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_counter_attack",
+        "category_1": "1003"
+    },
+    "17000226": {
+        "idx": "17000226",
+        "noApplyDebuffDuration": "0",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_attr_cnt_def_forest_extend",
+        "category_1": "1001"
+    },
     "19000032": {
         "idx": "19000032",
         "noApplyDebuffDuration": "0",
@@ -2759,25 +2919,25 @@
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
     },
-    "17000141": {
-        "idx": "17000141",
+    "17000230": {
+        "idx": "17000230",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
+        "category_2": "301",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_switch_dotdealheal",
-        "category_1": "1003"
+        "logic": "skill_def_reaction",
+        "category_1": "401"
     },
-    "17000131": {
-        "idx": "17000131",
+    "17000229": {
+        "idx": "17000229",
         "noApplyDebuffDuration": "0",
-        "category_2": "10020002",
-        "rank": "1",
+        "category_2": "0",
+        "rank": "2",
         "type": "7",
-        "category_3": "1012",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020001"
+        "category_3": "0",
+        "logic": "skill_abnormal_success",
+        "category_1": "1005"
     },
     "18000127": {
         "idx": "18000127",
@@ -2789,15 +2949,15 @@
         "logic": "skill_burn",
         "category_1": "401"
     },
-    "17000134": {
-        "idx": "17000134",
+    "17000234": {
+        "idx": "17000234",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "1",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_attrvalue",
-        "category_1": "100"
+        "logic": "skill_ignore_guard",
+        "category_1": "1003"
     },
     "18000169": {
         "idx": "18000169",
@@ -2829,15 +2989,15 @@
         "logic": "skill_antidebuff_category",
         "category_1": "10020202"
     },
-    "17000140": {
-        "idx": "17000140",
+    "17000001": {
+        "idx": "17000001",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "2",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_grow_atk_penalty_2",
-        "category_1": "1003"
+        "logic": "skill_heal",
+        "category_1": "300"
     },
     "18000125": {
         "idx": "18000125",
@@ -2859,15 +3019,15 @@
         "logic": "skill_default_value",
         "category_1": "400"
     },
-    "17000062": {
-        "idx": "17000062",
+    "17000004": {
+        "idx": "17000004",
         "noApplyDebuffDuration": "0",
-        "category_2": "1019",
-        "rank": "2",
+        "category_2": "301",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_press_cooltime",
-        "category_1": "1004"
+        "logic": "skill_def",
+        "category_1": "1001"
     },
     "17000142": {
         "idx": "17000142",
@@ -2889,25 +3049,25 @@
         "logic": "skill_antidebuff_category",
         "category_1": "10020210"
     },
-    "17000001": {
-        "idx": "17000001",
+    "17000123": {
+        "idx": "17000123",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020400"
+    },
+    "17000027": {
+        "idx": "17000027",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_heal",
-        "category_1": "300"
-    },
-    "17000084": {
-        "idx": "17000084",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_range_attack",
-        "category_1": "1003"
+        "logic": "skill_evade",
+        "category_1": "1005"
     },
     "17000033": {
         "idx": "17000033",
@@ -2959,25 +3119,25 @@
         "logic": "skill_cri_reaction",
         "category_1": "0"
     },
-    "18000076": {
-        "idx": "18000076",
-        "noApplyDebuffDuration": "1",
-        "category_2": "218",
+    "17000174": {
+        "idx": "17000174",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_grow_atk_penalty_3",
+        "category_1": "1003"
+    },
+    "18000067": {
+        "idx": "18000067",
+        "noApplyDebuffDuration": "0",
+        "category_2": "223",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_deadly_venom",
+        "logic": "skill_disintegrate_pve",
         "category_1": "200"
-    },
-    "17000205": {
-        "idx": "17000205",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10021015"
     },
     "18000106": {
         "idx": "18000106",
@@ -2989,45 +3149,45 @@
         "logic": "skill_snow_bomb",
         "category_1": "1004"
     },
-    "17000008": {
-        "idx": "17000008",
+    "18000076": {
+        "idx": "18000076",
+        "noApplyDebuffDuration": "1",
+        "category_2": "218",
+        "rank": "2",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_deadly_venom",
+        "category_1": "200"
+    },
+    "18000075": {
+        "idx": "18000075",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
+        "category_2": "0",
         "rank": "4",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_antidebuff",
-        "category_1": "1002"
+        "logic": "skill_anti_resistclean",
+        "category_1": "10021012"
     },
-    "17000015": {
-        "idx": "17000015",
+    "18000073": {
+        "idx": "18000073",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
+        "category_2": "2",
+        "rank": "2",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_heal_power",
-        "category_1": "300"
+        "logic": "skill_silence_cooltime",
+        "category_1": "99"
     },
-    "17000021": {
-        "idx": "17000021",
+    "17000249": {
+        "idx": "17000249",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_press_dmg",
-        "category_1": "400"
-    },
-    "17000025": {
-        "idx": "17000025",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_value",
-        "category_1": "400"
+        "logic": "skill_system_on_dead",
+        "category_1": "0"
     },
     "17000207": {
         "idx": "17000207",
@@ -3039,35 +3199,35 @@
         "logic": "skill_def_reaction",
         "category_1": "401"
     },
-    "17000182": {
-        "idx": "17000182",
+    "18000079": {
+        "idx": "18000079",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_reduce_remains_grow_gauge",
+        "category_1": "1004"
+    },
+    "18000065": {
+        "idx": "18000065",
+        "noApplyDebuffDuration": "1",
+        "category_2": "223",
         "rank": "2",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_dot_category_evade",
-        "category_1": "1005"
+        "logic": "skill_disintegrate",
+        "category_1": "200"
     },
-    "17000027": {
-        "idx": "17000027",
+    "18000068": {
+        "idx": "18000068",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
+        "category_2": "4",
+        "rank": "2",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_evade",
-        "category_1": "1005"
-    },
-    "17000028": {
-        "idx": "17000028",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_debuff_evade",
-        "category_1": "1005"
+        "logic": "skill_smite",
+        "category_1": "99"
     },
     "18000144": {
         "idx": "18000144",
@@ -3079,25 +3239,25 @@
         "logic": "skill_antibuff_category",
         "category_1": "10020400"
     },
-    "18000112": {
-        "idx": "18000112",
+    "18000072": {
+        "idx": "18000072",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
+        "category_2": "4",
+        "rank": "3",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_buff_explosion",
-        "category_1": "1002"
+        "logic": "skill_stun_time",
+        "category_1": "99"
     },
-    "17000127": {
-        "idx": "17000127",
+    "18000180": {
+        "idx": "18000180",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
-        "type": "7",
+        "category_2": "0",
+        "rank": "2",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10021003"
+        "logic": "skill_skill_gauge_explosion",
+        "category_1": "1004"
     },
     "19000009": {
         "idx": "19000009",
@@ -3119,15 +3279,15 @@
         "logic": "skill_default_defence",
         "category_1": "401"
     },
-    "18000113": {
-        "idx": "18000113",
+    "18000071": {
+        "idx": "18000071",
         "noApplyDebuffDuration": "0",
-        "category_2": "1002",
-        "rank": "1",
+        "category_2": "1015",
+        "rank": "2",
         "type": "8",
-        "category_3": "318000113",
-        "logic": "skill_buff_explosion",
-        "category_1": "300"
+        "category_3": "0",
+        "logic": "skill_electric_shock_pve",
+        "category_1": "200"
     },
     "18000151": {
         "idx": "18000151",
@@ -3139,25 +3299,25 @@
         "logic": "skill_antibuff_category",
         "category_1": "10021006"
     },
-    "18000054": {
-        "idx": "18000054",
-        "noApplyDebuffDuration": "0",
-        "category_2": "301",
+    "18000044": {
+        "idx": "18000044",
+        "noApplyDebuffDuration": "1",
+        "category_2": "0",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_all_defence",
-        "category_1": "401"
+        "logic": "skill_bomb",
+        "category_1": "400"
     },
-    "17000221": {
-        "idx": "17000221",
+    "17000058": {
+        "idx": "17000058",
         "noApplyDebuffDuration": "0",
         "category_2": "301",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_attr_cnt_def_dark",
-        "category_1": "1001"
+        "logic": "skill_drive_defence",
+        "category_1": "401"
     },
     "17000060": {
         "idx": "17000060",
@@ -3169,15 +3329,15 @@
         "logic": "skill_switch_atkdef",
         "category_1": "1003"
     },
-    "17000222": {
-        "idx": "17000222",
+    "18000054": {
+        "idx": "18000054",
         "noApplyDebuffDuration": "0",
-        "category_2": "306",
-        "rank": "1",
-        "type": "7",
+        "category_2": "301",
+        "rank": "2",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_debuff_hp_shield_after",
-        "category_1": "301"
+        "logic": "skill_all_defence",
+        "category_1": "401"
     },
     "18000111": {
         "idx": "18000111",
@@ -3189,34 +3349,34 @@
         "logic": "skill_dark_surfing",
         "category_1": "0"
     },
-    "18000050": {
-        "idx": "18000050",
-        "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_drive_defence",
-        "category_1": "401"
-    },
-    "18000015": {
-        "idx": "18000015",
+    "19000013": {
+        "idx": "19000013",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "8",
+        "type": "9",
         "category_3": "0",
-        "logic": "skill_dmg",
-        "category_1": "400"
+        "logic": "skill_last_attack",
+        "category_1": "0"
     },
-    "17000168": {
-        "idx": "17000168",
+    "17000173": {
+        "idx": "17000173",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
+        "category_2": "1012",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_magic_damage_up",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020212"
+    },
+    "17000201": {
+        "idx": "17000201",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1010",
+        "rank": "1",
+        "type": "7",
+        "category_3": "301",
+        "logic": "skill_grow_normal_defence",
         "category_1": "400"
     },
     "17000113": {
@@ -3239,15 +3399,15 @@
         "logic": "skill_venom_up",
         "category_1": "400"
     },
-    "18000097": {
-        "idx": "18000097",
+    "18000018": {
+        "idx": "18000018",
         "noApplyDebuffDuration": "0",
-        "category_2": "215",
-        "rank": "2",
+        "category_2": "0",
+        "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_blades_dispel",
-        "category_1": "200"
+        "logic": "skill_default_dmg",
+        "category_1": "400"
     },
     "19000006": {
         "idx": "19000006",
@@ -3259,15 +3419,15 @@
         "logic": "skill_cri_reaction",
         "category_1": "0"
     },
-    "18000102": {
-        "idx": "18000102",
+    "18000183": {
+        "idx": "18000183",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1003",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_fire_surfing",
-        "category_1": "0"
+        "logic": "skill_atk_rapine",
+        "category_1": "1001"
     },
     "17000076": {
         "idx": "17000076",
@@ -3289,25 +3449,25 @@
         "logic": "skill_dot_damage_value",
         "category_1": "400"
     },
-    "18000156": {
-        "idx": "18000156",
+    "18000046": {
+        "idx": "18000046",
+        "noApplyDebuffDuration": "0",
+        "category_2": "208",
+        "rank": "4",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_antiheal",
+        "category_1": "300"
+    },
+    "18000102": {
+        "idx": "18000102",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_count_debuff_damage",
-        "category_1": "400"
-    },
-    "18000002": {
-        "idx": "18000002",
-        "noApplyDebuffDuration": "0",
-        "category_2": "400",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_atk",
-        "category_1": "1001"
+        "logic": "skill_fire_surfing",
+        "category_1": "0"
     },
     "19000023": {
         "idx": "19000023",
@@ -3329,25 +3489,25 @@
         "logic": "skill_cooltime_clear",
         "category_1": "1004"
     },
-    "17000193": {
-        "idx": "17000193",
+    "18000128": {
+        "idx": "18000128",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
+        "category_2": "1006",
+        "rank": "3",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_guard_debuff_2",
-        "category_1": "301"
+        "logic": "skill_moist",
+        "category_1": "1004"
     },
-    "18000124": {
-        "idx": "18000124",
+    "18000047": {
+        "idx": "18000047",
         "noApplyDebuffDuration": "0",
-        "category_2": "1002",
+        "category_2": "213",
         "rank": "4",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_buff_steal",
-        "category_1": "1003"
+        "logic": "skill_deathheal",
+        "category_1": "300"
     },
     "17000166": {
         "idx": "17000166",
@@ -3359,15 +3519,15 @@
         "logic": "skill_attr_defence_field",
         "category_1": "0"
     },
-    "18000099": {
-        "idx": "18000099",
+    "17000117": {
+        "idx": "17000117",
         "noApplyDebuffDuration": "0",
-        "category_2": "513",
-        "rank": "2",
-        "type": "8",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_charm",
-        "category_1": "1005"
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020005"
     },
     "19000014": {
         "idx": "19000014",
@@ -3389,25 +3549,25 @@
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
     },
-    "17000246": {
-        "idx": "17000246",
+    "17000049": {
+        "idx": "17000049",
         "noApplyDebuffDuration": "0",
-        "category_2": "1022",
+        "category_2": "0",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_skill_gauge_instant_field",
-        "category_1": "1004"
+        "logic": "skill_ignore_def",
+        "category_1": "0"
     },
-    "18000009": {
-        "idx": "18000009",
+    "19000046": {
+        "idx": "19000046",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "8",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_skill_gauge",
-        "category_1": "1004"
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "17000206": {
         "idx": "17000206",
@@ -3419,15 +3579,15 @@
         "logic": "skill_def_reaction",
         "category_1": "401"
     },
-    "18000114": {
-        "idx": "18000114",
+    "18000136": {
+        "idx": "18000136",
         "noApplyDebuffDuration": "0",
-        "category_2": "1002",
+        "category_2": "0",
         "rank": "1",
         "type": "8",
-        "category_3": "318000114",
-        "logic": "skill_buff_explosion",
-        "category_1": "301"
+        "category_3": "0",
+        "logic": "skill_magic_damage",
+        "category_1": "209"
     },
     "17000059": {
         "idx": "17000059",
@@ -3439,25 +3599,25 @@
         "logic": "skill_summon_ghost",
         "category_1": "102"
     },
-    "18000041": {
-        "idx": "18000041",
+    "17000121": {
+        "idx": "17000121",
         "noApplyDebuffDuration": "0",
-        "category_2": "201",
-        "rank": "2",
-        "type": "8",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_venom",
-        "category_1": "200"
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020300"
     },
-    "17000187": {
-        "idx": "17000187",
+    "19000037": {
+        "idx": "19000037",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "2",
-        "type": "7",
+        "type": "9",
         "category_3": "0",
-        "logic": "skill_ignore_thorn",
-        "category_1": "1003"
+        "logic": "skill_system_on_apply_dot",
+        "category_1": "0"
     },
     "17000208": {
         "idx": "17000208",
@@ -3469,25 +3629,25 @@
         "logic": "skill_accuracy",
         "category_1": "1005"
     },
-    "18000036": {
-        "idx": "18000036",
+    "17000187": {
+        "idx": "17000187",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "1",
-        "type": "8",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_press_defence",
-        "category_1": "401"
+        "logic": "skill_ignore_thorn",
+        "category_1": "1003"
     },
-    "18000046": {
-        "idx": "18000046",
+    "17000025": {
+        "idx": "17000025",
         "noApplyDebuffDuration": "0",
-        "category_2": "208",
-        "rank": "4",
-        "type": "8",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_antiheal",
-        "category_1": "300"
+        "logic": "skill_value",
+        "category_1": "400"
     },
     "18000043": {
         "idx": "18000043",
@@ -3499,35 +3659,35 @@
         "logic": "skill_drive_gauge_instant",
         "category_1": "1004"
     },
-    "18000040": {
-        "idx": "18000040",
+    "18000182": {
+        "idx": "18000182",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "4",
+        "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_cleanbuff_all",
-        "category_1": "1000"
+        "logic": "skill_antibuff_category",
+        "category_1": "10020512"
     },
-    "18000047": {
-        "idx": "18000047",
+    "17000052": {
+        "idx": "17000052",
         "noApplyDebuffDuration": "0",
-        "category_2": "213",
-        "rank": "4",
-        "type": "8",
+        "category_2": "1021",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_deathheal",
-        "category_1": "300"
-    },
-    "18000074": {
-        "idx": "18000074",
-        "noApplyDebuffDuration": "0",
-        "category_2": "6",
-        "rank": "3",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_frostbite",
+        "logic": "skill_drive_gauge_instant",
         "category_1": "1004"
+    },
+    "18000024": {
+        "idx": "18000024",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_press_dmg",
+        "category_1": "400"
     },
     "18000152": {
         "idx": "18000152",
@@ -3539,15 +3699,15 @@
         "logic": "skill_antibuff_category",
         "category_1": "10020501"
     },
-    "19000001": {
-        "idx": "19000001",
+    "17000180": {
+        "idx": "17000180",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1012",
         "rank": "1",
-        "type": "9",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_damage",
-        "category_1": "0"
+        "logic": "skill_antidebuff_category",
+        "category_1": "10020213"
     },
     "17000016": {
         "idx": "17000016",
@@ -3559,15 +3719,15 @@
         "logic": "skill_all_defence",
         "category_1": "401"
     },
-    "17000202": {
-        "idx": "17000202",
+    "18000146": {
+        "idx": "18000146",
         "noApplyDebuffDuration": "0",
-        "category_2": "1010",
+        "category_2": "0",
         "rank": "1",
-        "type": "7",
-        "category_3": "301",
-        "logic": "skill_grow_press_defence",
-        "category_1": "400"
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_antibuff_category",
+        "category_1": "10021001"
     },
     "19000033": {
         "idx": "19000033",
@@ -3589,15 +3749,15 @@
         "logic": "skill_poison",
         "category_1": "200"
     },
-    "17000040": {
-        "idx": "17000040",
+    "17000223": {
+        "idx": "17000223",
         "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
+        "category_2": "0",
+        "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_normal_defence",
-        "category_1": "401"
+        "logic": "skill_dot_damage_value_after",
+        "category_1": "0"
     },
     "17000111": {
         "idx": "17000111",
@@ -3629,25 +3789,25 @@
         "logic": "skill_buff_duration_once",
         "category_1": "1004"
     },
-    "18000057": {
-        "idx": "18000057",
+    "17000028": {
+        "idx": "17000028",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "2",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_silence_evade",
-        "category_1": "1005"
-    },
-    "17000120": {
-        "idx": "17000120",
-        "noApplyDebuffDuration": "0",
-        "category_2": "1012",
         "rank": "1",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020200"
+        "logic": "skill_debuff_evade",
+        "category_1": "1005"
+    },
+    "18000123": {
+        "idx": "18000123",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_buff_success",
+        "category_1": "1005"
     },
     "18000059": {
         "idx": "18000059",
@@ -3669,15 +3829,15 @@
         "logic": "skill_switch_atkdef",
         "category_1": "1003"
     },
-    "18000158": {
-        "idx": "18000158",
+    "18000020": {
+        "idx": "18000020",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10021018"
+        "logic": "skill_value",
+        "category_1": "400"
     },
     "18000053": {
         "idx": "18000053",
@@ -3729,25 +3889,25 @@
         "logic": "skill_absorb",
         "category_1": "305"
     },
-    "17000123": {
-        "idx": "17000123",
+    "17000182": {
+        "idx": "17000182",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
+        "category_2": "0",
+        "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020400"
+        "logic": "skill_dot_category_evade",
+        "category_1": "1005"
     },
-    "17000117": {
-        "idx": "17000117",
+    "17000192": {
+        "idx": "17000192",
         "noApplyDebuffDuration": "0",
-        "category_2": "1012",
-        "rank": "1",
+        "category_2": "0",
+        "rank": "3",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020005"
+        "logic": "skill_reserved_revive_light",
+        "category_1": "300"
     },
     "17000214": {
         "idx": "17000214",
@@ -3789,35 +3949,35 @@
         "logic": "skill_system_on_apply_dot",
         "category_1": "0"
     },
-    "18000024": {
-        "idx": "18000024",
+    "17000204": {
+        "idx": "17000204",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_pierce",
+        "category_1": "1003"
+    },
+    "18000140": {
+        "idx": "18000140",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_press_dmg",
-        "category_1": "400"
+        "logic": "skill_accuracy",
+        "category_1": "1005"
     },
-    "17000036": {
-        "idx": "17000036",
+    "18000058": {
+        "idx": "18000058",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "1",
-        "type": "7",
+        "rank": "2",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_press_value",
-        "category_1": "400"
-    },
-    "17000035": {
-        "idx": "17000035",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_normal_value",
-        "category_1": "400"
+        "logic": "skill_confuse_evade",
+        "category_1": "1005"
     },
     "17000043": {
         "idx": "17000043",
@@ -3829,45 +3989,45 @@
         "logic": "skill_debuff_duration",
         "category_1": "1004"
     },
-    "17000174": {
-        "idx": "17000174",
+    "18000115": {
+        "idx": "18000115",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_grow_atk_penalty_3",
-        "category_1": "1003"
-    },
-    "18000022": {
-        "idx": "18000022",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1002",
         "rank": "1",
         "type": "8",
-        "category_3": "0",
-        "logic": "skill_debuff_evade",
-        "category_1": "1005"
-    },
-    "18000023": {
-        "idx": "18000023",
-        "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_normal_dmg",
+        "category_3": "318000115",
+        "logic": "skill_buff_explosion",
         "category_1": "400"
     },
-    "17000152": {
-        "idx": "17000152",
+    "18000002": {
+        "idx": "18000002",
+        "noApplyDebuffDuration": "0",
+        "category_2": "400",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_atk",
+        "category_1": "1001"
+    },
+    "18000122": {
+        "idx": "18000122",
+        "noApplyDebuffDuration": "0",
+        "category_2": "224",
+        "rank": "3",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_pain_link",
+        "category_1": "1003"
+    },
+    "18000135": {
+        "idx": "18000135",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
-        "type": "7",
+        "type": "8",
         "category_3": "0",
-        "logic": "skill_antidebuff_category",
-        "category_1": "10020205"
+        "logic": "skill_extra_damage_buff",
+        "category_1": "400"
     },
     "17000006": {
         "idx": "17000006",
@@ -3889,15 +4049,15 @@
         "logic": "skill_drive_duration",
         "category_1": "1004"
     },
-    "18000150": {
-        "idx": "18000150",
+    "17000217": {
+        "idx": "17000217",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
-        "rank": "1",
-        "type": "8",
+        "category_2": "301",
+        "rank": "2",
+        "type": "7",
         "category_3": "0",
-        "logic": "skill_antibuff_category",
-        "category_1": "10021005"
+        "logic": "skill_attr_cnt_def_water",
+        "category_1": "1001"
     },
     "17000087": {
         "idx": "17000087",
@@ -3909,55 +4069,55 @@
         "logic": "skill_antidebuff_one",
         "category_1": "1002"
     },
-    "18000056": {
-        "idx": "18000056",
+    "17000127": {
+        "idx": "17000127",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1012",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_antidebuff_category",
+        "category_1": "10021003"
+    },
+    "18000158": {
+        "idx": "18000158",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_press_cooltime",
-        "category_1": "1004"
+        "logic": "skill_antibuff_category",
+        "category_1": "10021018"
     },
-    "17000240": {
-        "idx": "17000240",
-        "noApplyDebuffDuration": "0",
-        "category_2": "301",
-        "rank": "2",
-        "type": "7",
-        "category_3": "0",
-        "logic": "skill_def_reaction",
-        "category_1": "401"
-    },
-    "18000067": {
-        "idx": "18000067",
-        "noApplyDebuffDuration": "0",
-        "category_2": "223",
-        "rank": "2",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_disintegrate_pve",
-        "category_1": "200"
-    },
-    "18000075": {
-        "idx": "18000075",
+    "18000186": {
+        "idx": "18000186",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
-        "rank": "4",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_anti_resistclean",
-        "category_1": "10021012"
-    },
-    "18000065": {
-        "idx": "18000065",
-        "noApplyDebuffDuration": "1",
-        "category_2": "223",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_disintegrate",
-        "category_1": "200"
+        "logic": "skill_atk_attacker_pct",
+        "category_1": "0"
+    },
+    "18000181": {
+        "idx": "18000181",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "1",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_antibuff_category",
+        "category_1": "10020307"
+    },
+    "18000155": {
+        "idx": "18000155",
+        "noApplyDebuffDuration": "0",
+        "category_2": "0",
+        "rank": "2",
+        "type": "8",
+        "category_3": "0",
+        "logic": "skill_antibuff_category",
+        "category_1": "10021017"
     },
     "17000211": {
         "idx": "17000211",
@@ -3979,35 +4139,35 @@
         "logic": "skill_drive_duration",
         "category_1": "1004"
     },
-    "18000115": {
-        "idx": "18000115",
+    "18000099": {
+        "idx": "18000099",
         "noApplyDebuffDuration": "0",
-        "category_2": "1002",
-        "rank": "1",
+        "category_2": "513",
+        "rank": "2",
         "type": "8",
-        "category_3": "318000115",
-        "logic": "skill_buff_explosion",
-        "category_1": "400"
+        "category_3": "0",
+        "logic": "skill_charm",
+        "category_1": "1005"
     },
-    "17000041": {
-        "idx": "17000041",
+    "17000014": {
+        "idx": "17000014",
+        "noApplyDebuffDuration": "0",
+        "category_2": "1020",
+        "rank": "1",
+        "type": "7",
+        "category_3": "0",
+        "logic": "skill_skill_gauge_sec",
+        "category_1": "1004"
+    },
+    "17000216": {
+        "idx": "17000216",
         "noApplyDebuffDuration": "0",
         "category_2": "301",
         "rank": "2",
         "type": "7",
         "category_3": "0",
-        "logic": "skill_press_defence",
+        "logic": "skill_all_def_except_neg_attr",
         "category_1": "401"
-    },
-    "18000122": {
-        "idx": "18000122",
-        "noApplyDebuffDuration": "0",
-        "category_2": "224",
-        "rank": "3",
-        "type": "8",
-        "category_3": "0",
-        "logic": "skill_pain_link",
-        "category_1": "1003"
     },
     "17000053": {
         "idx": "17000053",
@@ -4029,15 +4189,15 @@
         "logic": "skill_buff_explosion",
         "category_1": "1001"
     },
-    "18000123": {
-        "idx": "18000123",
+    "18000178": {
+        "idx": "18000178",
         "noApplyDebuffDuration": "0",
         "category_2": "0",
         "rank": "1",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_buff_success",
-        "category_1": "1005"
+        "logic": "skill_antibuff_category",
+        "category_1": "10020514"
     },
     "17000063": {
         "idx": "17000063",
@@ -4099,14 +4259,14 @@
         "logic": "skill_cri_reaction",
         "category_1": "0"
     },
-    "18000058": {
-        "idx": "18000058",
+    "18000138": {
+        "idx": "18000138",
         "noApplyDebuffDuration": "0",
-        "category_2": "0",
+        "category_2": "1016",
         "rank": "2",
         "type": "8",
         "category_3": "0",
-        "logic": "skill_confuse_evade",
-        "category_1": "1005"
+        "logic": "skill_encroach",
+        "category_1": "200"
     }
 }
